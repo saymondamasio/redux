@@ -1,0 +1,31 @@
+{
+  "name": "Redux",
+  "description": "Um projeto simples de um carrinho de compras usando Redux e Redux Saga.",
+  "short_description": "Um projeto usando Redux e Redux Saga",
+  "techs": [
+    {
+      "name": "React.js",
+      "url": "https://reactjs.org/"
+    },
+    {
+      "name": "Typescript",
+      "url": "https://www.typescriptlang.org/"
+    },
+    {
+      "name": "Redux",
+      "url": "https://redux.js.org/"
+    },
+    {
+      "name": "Redux Saga",
+      "url": "https://redux-saga.js.org/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://axios-http.com/"
+    },
+    {
+      "name": "immer",
+      "url": "https://immerjs.github.io/immer/"
+    }
+  ]
+}
